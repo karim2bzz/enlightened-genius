@@ -365,6 +365,13 @@ hr {
     color: #000;
   }
   
+  @media (max-width: 768px) {
+    .introduction-bloc .second-bloc .third-bloc{
+        width: 83%;
+    }
+  }
+  
+  
   
   
   
