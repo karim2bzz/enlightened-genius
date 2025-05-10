@@ -32,7 +32,3 @@ document.addEventListener('DOMContentLoaded', function () {
         document.body.classList.toggle('menu-active'); // Empêche le scroll du site
       });
 
-    
-    
-    
-      
