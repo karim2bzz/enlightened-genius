@@ -665,7 +665,7 @@ hr {
   
   /* 🔧 Modifier la largeur des petits carrés ici */
   .topics-container .topic-box {
-    width: 22%; /* <<-- Change ici la largeur */
+    flex: 1 1 calc(25% - 10px); /* <<-- Change ici la largeur */
     min-width: 120px;
     border: 1px solid #2d333b;
     padding: 15px;
